@@ -1,26 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import ComingSoon from 'react-coming-soon';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ComingSoon title="E-CoDE (Empowerment through Computer Donation and Education)" subtitle="KIDS (Komputers for Developing Schools) is becoming E-CoDE. Coming soon:" bgColor="#0693e3" textColor="#fafafa" date="Sat Aug 31 2019 00:00:00 GMT-0500 (Central Daylight Time)" illustration="development" />
   );
 }
-
-export default App;
