@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/e-code.org/static/css/main.2cce8147.chunk.css",
-    "main.js": "/e-code.org/static/js/main.386b1e5d.chunk.js",
-    "main.js.map": "/e-code.org/static/js/main.386b1e5d.chunk.js.map",
-    "runtime~main.js": "/e-code.org/static/js/runtime~main.83a77460.js",
-    "runtime~main.js.map": "/e-code.org/static/js/runtime~main.83a77460.js.map",
-    "static/js/2.1f108a3f.chunk.js": "/e-code.org/static/js/2.1f108a3f.chunk.js",
-    "static/js/2.1f108a3f.chunk.js.map": "/e-code.org/static/js/2.1f108a3f.chunk.js.map",
-    "index.html": "/e-code.org/index.html",
-    "precache-manifest.56ccf2788483ac7ed1707ebe3944a3db.js": "/e-code.org/precache-manifest.56ccf2788483ac7ed1707ebe3944a3db.js",
-    "service-worker.js": "/e-code.org/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/e-code.org/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/e-code.org/static/media/logo.5d5d9eef.svg"
+    "main.css": "e-code.org/static/css/main.2cce8147.chunk.css",
+    "main.js": "e-code.org/static/js/main.12b12ecc.chunk.js",
+    "main.js.map": "e-code.org/static/js/main.12b12ecc.chunk.js.map",
+    "runtime~main.js": "e-code.org/static/js/runtime~main.2dba2793.js",
+    "runtime~main.js.map": "e-code.org/static/js/runtime~main.2dba2793.js.map",
+    "static/js/2.1f108a3f.chunk.js": "e-code.org/static/js/2.1f108a3f.chunk.js",
+    "static/js/2.1f108a3f.chunk.js.map": "e-code.org/static/js/2.1f108a3f.chunk.js.map",
+    "index.html": "e-code.org/index.html",
+    "precache-manifest.f509b9f11ddbc016efbe981c92bb009a.js": "e-code.org/precache-manifest.f509b9f11ddbc016efbe981c92bb009a.js",
+    "service-worker.js": "e-code.org/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "e-code.org/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "e-code.org/static/media/logo.5d5d9eef.svg"
   }
 }
